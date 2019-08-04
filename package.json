@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start_dev": "nodemon --exec babel-node src/index.js"
   },
+  "repository": "https://github.com/Johnpaul-Attamah/devconnector-redo.git",
   "author": "Johnpaul",
   "license": "ISC",
   "dependencies": {
